@@ -1,0 +1,936 @@
+Cecha nr 0
+Srednia: 0.346360340859
+Wariancja: 0.137845485548
+Unikalne wartosci: 841
+Cecha nr 1
+Srednia: 0.756819180702
+Wariancja: 0.092245045181
+Unikalne wartosci: 70
+Cecha nr 2
+Srednia: 0.871666632936
+Wariancja: 0.0508267958458
+Unikalne wartosci: 9
+Cecha nr 3
+Srednia: 0.945560195461
+Wariancja: 0.0505301412552
+Unikalne wartosci: 4
+Cecha nr 4
+Srednia: 0.633764318553
+Wariancja: 0.120211052938
+Unikalne wartosci: 63
+Cecha nr 5
+Srednia: 0.493753866241
+Wariancja: 0.11272531647
+Unikalne wartosci: 4345
+Cecha nr 6
+Srednia: 0.858363422166
+Wariancja: 0.0371083830926
+Unikalne wartosci: 203
+Cecha nr 7
+Srednia: 0.933863137041
+Wariancja: 0.0140937965703
+Unikalne wartosci: 11
+Cecha nr 8
+Srednia: 0.946513662234
+Wariancja: 0.0499123233099
+Unikalne wartosci: 4
+Cecha nr 9
+Srednia: 0.728036942441
+Wariancja: 0.106550727103
+Unikalne wartosci: 134
+Cecha nr 10
+Srednia: 1.23115947406
+Wariancja: 1.05191438108
+Unikalne wartosci: 40
+Cecha nr 11
+Srednia: 1.12272736472
+Wariancja: 0.150382469126
+Unikalne wartosci: 7
+Cecha nr 12
+Srednia: 1.09131693101
+Wariancja: 0.0990476622429
+Unikalne wartosci: 4
+Cecha nr 13
+Srednia: 0.94753459128
+Wariancja: 0.0498477141515
+Unikalne wartosci: 3
+Cecha nr 14
+Srednia: 2.13108594019
+Wariancja: 1.48673266116
+Unikalne wartosci: 16
+Cecha nr 15
+Srednia: 0.620834619094
+Wariancja: 0.134189264624
+Unikalne wartosci: 391
+Cecha nr 16
+Srednia: 0.948877376447
+Wariancja: 0.0238483033237
+Unikalne wartosci: 30
+Cecha nr 17
+Srednia: 0.994117289906
+Wariancja: 0.00284603272459
+Unikalne wartosci: 3
+Cecha nr 18
+Srednia: 0.947467129008
+Wariancja: 0.0497731684572
+Unikalne wartosci: 2
+Cecha nr 19
+Srednia: 0.810620649687
+Wariancja: 0.120326756993
+Unikalne wartosci: 19
+Cecha nr 20
+Srednia: 0.366673113388
+Wariancja: 0.132427867895
+Unikalne wartosci: 591
+Cecha nr 21
+Srednia: 0.767849467884
+Wariancja: 0.0838205975973
+Unikalne wartosci: 56
+Cecha nr 22
+Srednia: 0.873608984176
+Wariancja: 0.0490963826222
+Unikalne wartosci: 9
+Cecha nr 23
+Srednia: 0.945560195461
+Wariancja: 0.0505301412552
+Unikalne wartosci: 4
+Cecha nr 24
+Srednia: 0.645453235195
+Wariancja: 0.115071625396
+Unikalne wartosci: 56
+Cecha nr 25
+Srednia: 0.627310945357
+Wariancja: 0.531821956815
+Unikalne wartosci: 2752
+Cecha nr 26
+Srednia: 0.106473296853
+Wariancja: 0.00561631856819
+Unikalne wartosci: 2198
+Cecha nr 27
+Srednia: 0.0619951691797
+Wariancja: 0.000454611853201
+Unikalne wartosci: 22
+Cecha nr 28
+Srednia: 0.016990399393
+Wariancja: 0.000740165354457
+Unikalne wartosci: 9
+Cecha nr 29
+Srednia: 0.119487093142
+Wariancja: 0.00531294127852
+Unikalne wartosci: 685
+Cecha nr 30
+Srednia: 1.23112855374
+Wariancja: 1.05185057573
+Unikalne wartosci: 1126
+Cecha nr 31
+Srednia: 1.06764881955
+Wariancja: 0.148709106662
+Unikalne wartosci: 2163
+Cecha nr 32
+Srednia: 0.332540417117
+Wariancja: 0.153548096257
+Unikalne wartosci: 22
+Cecha nr 33
+Srednia: 0.214026198133
+Wariancja: 0.117745923765
+Unikalne wartosci: 9
+Cecha nr 34
+Srednia: 0.70121218511
+Wariancja: 0.308452747399
+Unikalne wartosci: 685
+Cecha nr 35
+Srednia: 0.933446160859
+Wariancja: 0.934195394347
+Unikalne wartosci: 1614
+Cecha nr 36
+Srednia: 0.749443584173
+Wariancja: 0.291542183433
+Unikalne wartosci: 1747
+Cecha nr 37
+Srednia: 0.260170344279
+Wariancja: 0.109922228482
+Unikalne wartosci: 255
+Cecha nr 38
+Srednia: 0.113875457446
+Wariancja: 0.0592368607726
+Unikalne wartosci: 95
+Cecha nr 39
+Srednia: 0.600372474869
+Wariancja: 0.267604433003
+Unikalne wartosci: 753
+Cecha nr 40
+Srednia: 0.000485728356417
+Wariancja: 0.000485492424379
+Unikalne wartosci: 2
+Cecha nr 41
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 42
+Srednia: 0.015880618764
+Wariancja: 0.0190690005696
+Unikalne wartosci: 3
+Cecha nr 43
+Srednia: 0.00760299802336
+Wariancja: 0.00805790570954
+Unikalne wartosci: 3
+Cecha nr 44
+Srednia: 0.00340684472209
+Wariancja: 0.00363810230935
+Unikalne wartosci: 3
+Cecha nr 45
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 46
+Srednia: 9.44471804144e-05
+Wariancja: 9.44382601447e-05
+Unikalne wartosci: 2
+Cecha nr 47
+Srednia: 0.288104377627
+Wariancja: 0.302866569403
+Unikalne wartosci: 3
+Cecha nr 48
+Srednia: 0.000735338761797
+Wariancja: 0.000829245219116
+Unikalne wartosci: 3
+Cecha nr 49
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 50
+Srednia: 0.137285722959
+Wariancja: 0.153397302438
+Unikalne wartosci: 3
+Cecha nr 51
+Srednia: 0.000101193407587
+Wariancja: 0.000101183167481
+Unikalne wartosci: 2
+Cecha nr 52
+Srednia: 0.0178032935081
+Wariancja: 0.0233285689797
+Unikalne wartosci: 3
+Cecha nr 53
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 54
+Srednia: 0.20251499349
+Wariancja: 0.225726753583
+Unikalne wartosci: 3
+Cecha nr 55
+Srednia: 0.000128178316277
+Wariancja: 0.000155146795286
+Unikalne wartosci: 3
+Cecha nr 56
+Srednia: 0.0147270139175
+Wariancja: 0.0163316103151
+Unikalne wartosci: 3
+Cecha nr 57
+Srednia: 0.605264755685
+Wariancja: 0.528548356179
+Unikalne wartosci: 3
+Cecha nr 58
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 59
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 60
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 61
+Srednia: 0.0141535846078
+Wariancja: 0.0160850684371
+Unikalne wartosci: 3
+Cecha nr 62
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 63
+Srednia: 0.0430409293603
+Wariancja: 0.0500259653559
+Unikalne wartosci: 3
+Cecha nr 64
+Srednia: 0.00156512470401
+Wariancja: 0.00165712226909
+Unikalne wartosci: 3
+Cecha nr 65
+Srednia: 0.617212324008
+Wariancja: 0.601002789407
+Unikalne wartosci: 3
+Cecha nr 66
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 67
+Srednia: 0.000728592534625
+Wariancja: 0.00080901641361
+Unikalne wartosci: 3
+Cecha nr 68
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 69
+Srednia: 0.0084732613286
+Wariancja: 0.0102634238706
+Unikalne wartosci: 3
+Cecha nr 70
+Srednia: 6.07160445521e-05
+Wariancja: 6.07123581139e-05
+Unikalne wartosci: 2
+Cecha nr 71
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 72
+Srednia: 4.72235902072e-05
+Wariancja: 4.72213601398e-05
+Unikalne wartosci: 2
+Cecha nr 73
+Srednia: 0.0205625004216
+Wariancja: 0.0233508881321
+Unikalne wartosci: 3
+Cecha nr 74
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 75
+Srednia: 0.270037981259
+Wariancja: 0.284224755188
+Unikalne wartosci: 3
+Cecha nr 76
+Srednia: 0.076124427414
+Wariancja: 0.0821219040624
+Unikalne wartosci: 3
+Cecha nr 77
+Srednia: 0.00290762391133
+Wariancja: 0.00308806399536
+Unikalne wartosci: 3
+Cecha nr 78
+Srednia: 1.6498573173
+Wariancja: 0.360956173015
+Unikalne wartosci: 3
+Cecha nr 79
+Srednia: 0.000674622717245
+Wariancja: 0.000768614781848
+Unikalne wartosci: 3
+Cecha nr 80
+Srednia: 0.000398027403175
+Wariancja: 0.000586763338191
+Unikalne wartosci: 3
+Cecha nr 81
+Srednia: 0.000195640588001
+Wariancja: 0.000222587221451
+Unikalne wartosci: 3
+Cecha nr 82
+Srednia: 0.00960662749357
+Wariancja: 0.0100000685582
+Unikalne wartosci: 3
+Cecha nr 83
+Srednia: 5.39698173796e-05
+Wariancja: 5.39669046384e-05
+Unikalne wartosci: 2
+Cecha nr 84
+Srednia: 0.00256356632553
+Wariancja: 0.0027593812684
+Unikalne wartosci: 3
+Cecha nr 85
+Srednia: 0.00581524782266
+Wariancja: 0.00636160625225
+Unikalne wartosci: 3
+Cecha nr 86
+Srednia: 0.00563984591617
+Wariancja: 0.00598582677588
+Unikalne wartosci: 3
+Cecha nr 87
+Srednia: 0.00389931930568
+Wariancja: 0.00449127506016
+Unikalne wartosci: 3
+Cecha nr 88
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 89
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 90
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 91
+Srednia: 0.000148416997794
+Wariancja: 0.000148394970189
+Unikalne wartosci: 2
+Cecha nr 92
+Srednia: 0.00568706950638
+Wariancja: 0.00589759092503
+Unikalne wartosci: 3
+Cecha nr 93
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 94
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 95
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 96
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 97
+Srednia: 3.37311358623e-05
+Wariancja: 3.37299980727e-05
+Unikalne wartosci: 2
+Cecha nr 98
+Srednia: 0.000182148133656
+Wariancja: 0.000182114955714
+Unikalne wartosci: 2
+Cecha nr 99
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 100
+Srednia: 0.000101193407587
+Wariancja: 0.000101183167481
+Unikalne wartosci: 2
+Cecha nr 101
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 102
+Srednia: 0.011111036153
+Wariancja: 0.0115542641111
+Unikalne wartosci: 3
+Cecha nr 103
+Srednia: 0.000175401906484
+Wariancja: 0.000175371140655
+Unikalne wartosci: 2
+Cecha nr 104
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 105
+Srednia: 6.74622717245e-05
+Wariancja: 6.74577205663e-05
+Unikalne wartosci: 2
+Cecha nr 106
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 107
+Srednia: 0.0115225560106
+Wariancja: 0.0127660170568
+Unikalne wartosci: 3
+Cecha nr 108
+Srednia: 0.00068811517159
+Wariancja: 0.000728119032138
+Unikalne wartosci: 3
+Cecha nr 109
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 110
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 111
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 112
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 113
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 114
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 115
+Srednia: 0.0174389972408
+Wariancja: 0.0182817372353
+Unikalne wartosci: 3
+Cecha nr 116
+Srednia: 1.65791905877
+Wariancja: 0.355061368492
+Unikalne wartosci: 3
+Cecha nr 117
+Srednia: 0.00588271009438
+Wariancja: 0.00649574162489
+Unikalne wartosci: 3
+Cecha nr 118
+Srednia: 0.143525983094
+Wariancja: 0.153122388095
+Unikalne wartosci: 3
+Cecha nr 119
+Srednia: 8.77009532419e-05
+Wariancja: 8.76932617846e-05
+Unikalne wartosci: 2
+Cecha nr 120
+Srednia: 8.09547260694e-05
+Wariancja: 8.09481724019e-05
+Unikalne wartosci: 2
+Cecha nr 121
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 122
+Srednia: 0.00227347855712
+Wariancja: 0.00240323439582
+Unikalne wartosci: 3
+Cecha nr 123
+Srednia: 5.39698173796e-05
+Wariancja: 6.74593589836e-05
+Unikalne wartosci: 3
+Cecha nr 124
+Srednia: 0.00924233122626
+Wariancja: 0.00993947289174
+Unikalne wartosci: 3
+Cecha nr 125
+Srednia: 3.37311358623e-05
+Wariancja: 3.37299980726e-05
+Unikalne wartosci: 2
+Cecha nr 126
+Srednia: 2.69849086898e-05
+Wariancja: 2.69841805046e-05
+Unikalne wartosci: 2
+Cecha nr 127
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 128
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 129
+Srednia: 0.00165957188442
+Wariancja: 0.00176475734034
+Unikalne wartosci: 3
+Cecha nr 130
+Srednia: 0.00041151985752
+Wariancja: 0.000438335417618
+Unikalne wartosci: 3
+Cecha nr 131
+Srednia: 0.000526205719451
+Wariancja: 0.000525928826992
+Unikalne wartosci: 2
+Cecha nr 132
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 133
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 134
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166089e-06
+Unikalne wartosci: 2
+Cecha nr 135
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 136
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 137
+Srednia: 6.74622717245e-05
+Wariancja: 6.74577205663e-05
+Unikalne wartosci: 2
+Cecha nr 138
+Srednia: 3.37311358623e-05
+Wariancja: 3.37299980727e-05
+Unikalne wartosci: 2
+Cecha nr 139
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166087e-06
+Unikalne wartosci: 2
+Cecha nr 140
+Srednia: 7.4208498897e-05
+Wariancja: 7.42029919959e-05
+Unikalne wartosci: 2
+Cecha nr 141
+Srednia: 3.37311358623e-05
+Wariancja: 3.37299980726e-05
+Unikalne wartosci: 2
+Cecha nr 142
+Srednia: 2.02386815174e-05
+Wariancja: 2.02382719131e-05
+Unikalne wartosci: 2
+Cecha nr 143
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 144
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 145
+Srednia: 0.000600414218348
+Wariancja: 0.00064053108415
+Unikalne wartosci: 3
+Cecha nr 146
+Srednia: 2.02386815174e-05
+Wariancja: 2.02382719131e-05
+Unikalne wartosci: 2
+Cecha nr 147
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 148
+Srednia: 0.000236117951036
+Wariancja: 0.000249554653694
+Unikalne wartosci: 3
+Cecha nr 149
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 150
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 151
+Srednia: 7.4208498897e-05
+Wariancja: 7.42029919957e-05
+Unikalne wartosci: 2
+Cecha nr 152
+Srednia: 2.69849086898e-05
+Wariancja: 2.69841805047e-05
+Unikalne wartosci: 2
+Cecha nr 153
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 154
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 155
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 156
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 157
+Srednia: 0.0200700258381
+Wariancja: 0.0220958616829
+Unikalne wartosci: 3
+Cecha nr 158
+Srednia: 0.000114685861932
+Wariancja: 0.00015515007212
+Unikalne wartosci: 3
+Cecha nr 159
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166089e-06
+Unikalne wartosci: 2
+Cecha nr 160
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 161
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 162
+Srednia: 0.000276595314071
+Wariancja: 0.000290011263448
+Unikalne wartosci: 3
+Cecha nr 163
+Srednia: 0.00207109174194
+Wariancja: 0.00226918913611
+Unikalne wartosci: 3
+Cecha nr 164
+Srednia: 8.09547260694e-05
+Wariancja: 8.09481724019e-05
+Unikalne wartosci: 2
+Cecha nr 165
+Srednia: 0.0432028388124
+Wariancja: 0.0502953432159
+Unikalne wartosci: 3
+Cecha nr 166
+Srednia: 0.000317072677105
+Wariancja: 0.000316972142023
+Unikalne wartosci: 2
+Cecha nr 167
+Srednia: 0.0357752426955
+Wariancja: 0.0387050204613
+Unikalne wartosci: 3
+Cecha nr 168
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 169
+Srednia: 9.44471804144e-05
+Wariancja: 0.000121423168835
+Unikalne wartosci: 3
+Cecha nr 170
+Srednia: 2.02386815174e-05
+Wariancja: 2.02382719131e-05
+Unikalne wartosci: 2
+Cecha nr 171
+Srednia: 0.0200025635663
+Wariancja: 0.0232319312358
+Unikalne wartosci: 3
+Cecha nr 172
+Srednia: 0.0022532398756
+Wariancja: 0.00234260996608
+Unikalne wartosci: 3
+Cecha nr 173
+Srednia: 0.000128178316277
+Wariancja: 0.000128161886596
+Unikalne wartosci: 2
+Cecha nr 174
+Srednia: 0.975990177493
+Wariancja: 0.60938365822
+Unikalne wartosci: 3
+Cecha nr 175
+Srednia: 0.00030358022276
+Wariancja: 0.000343965424844
+Unikalne wartosci: 3
+Cecha nr 176
+Srednia: 0.000667876490073
+Wariancja: 0.000802354974515
+Unikalne wartosci: 3
+Cecha nr 177
+Srednia: 0.00963361240226
+Wariancja: 0.0100265342707
+Unikalne wartosci: 3
+Cecha nr 178
+Srednia: 5.39698173796e-05
+Wariancja: 5.39669046384e-05
+Unikalne wartosci: 2
+Cecha nr 179
+Srednia: 0.00143694638773
+Wariancja: 0.00151583629888
+Unikalne wartosci: 3
+Cecha nr 180
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 181
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166087e-06
+Unikalne wartosci: 2
+Cecha nr 182
+Srednia: 0.0150508328217
+Wariancja: 0.0156473449681
+Unikalne wartosci: 3
+Cecha nr 183
+Srednia: 0.00300207109174
+Wariancja: 0.00328989265649
+Unikalne wartosci: 3
+Cecha nr 184
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 185
+Srednia: 0.00163933320291
+Wariancja: 0.00174458542431
+Unikalne wartosci: 3
+Cecha nr 186
+Srednia: 0.00696210644197
+Wariancja: 0.00781762995696
+Unikalne wartosci: 3
+Cecha nr 187
+Srednia: 3.37311358623e-05
+Wariancja: 3.37299980727e-05
+Unikalne wartosci: 2
+Cecha nr 188
+Srednia: 8.09547260694e-05
+Wariancja: 8.09481724019e-05
+Unikalne wartosci: 2
+Cecha nr 189
+Srednia: 0.0371447268115
+Wariancja: 0.0390031851244
+Unikalne wartosci: 3
+Cecha nr 190
+Srednia: 0.00343382963078
+Wariancja: 0.00400221398168
+Unikalne wartosci: 3
+Cecha nr 191
+Srednia: 0.0114685861932
+Wariancja: 0.0118362785346
+Unikalne wartosci: 3
+Cecha nr 192
+Srednia: 6.74622717245e-05
+Wariancja: 6.74577205663e-05
+Unikalne wartosci: 2
+Cecha nr 193
+Srednia: 0.0232677375178
+Wariancja: 0.0260320012231
+Unikalne wartosci: 3
+Cecha nr 194
+Srednia: 0.00541047419231
+Wariancja: 0.00567803495692
+Unikalne wartosci: 3
+Cecha nr 195
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 196
+Srednia: 0.000290087768416
+Wariancja: 0.000303496071846
+Unikalne wartosci: 3
+Cecha nr 197
+Srednia: 0.0156310083586
+Wariancja: 0.0177748443553
+Unikalne wartosci: 3
+Cecha nr 198
+Srednia: 0.000391281176002
+Wariancja: 0.000391128075043
+Unikalne wartosci: 2
+Cecha nr 199
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 200
+Srednia: 4.04773630347e-05
+Wariancja: 4.04757246178e-05
+Unikalne wartosci: 2
+Cecha nr 201
+Srednia: 0.000337311358623
+Wariancja: 0.00033719757967
+Unikalne wartosci: 2
+Cecha nr 202
+Srednia: 0.00128178316277
+Wariancja: 0.00183333082283
+Unikalne wartosci: 3
+Cecha nr 203
+Srednia: 0.0310798685835
+Wariancja: 0.0335409937559
+Unikalne wartosci: 3
+Cecha nr 204
+Srednia: 0.000586921764003
+Wariancja: 0.000829441465056
+Unikalne wartosci: 3
+Cecha nr 205
+Srednia: 0.170659308782
+Wariancja: 0.183050991127
+Unikalne wartosci: 3
+Cecha nr 206
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 207
+Srednia: 0.00244213423643
+Wariancja: 0.00290840611888
+Unikalne wartosci: 3
+Cecha nr 208
+Srednia: 0.00213855401367
+Wariancja: 0.0022554126895
+Unikalne wartosci: 3
+Cecha nr 209
+Srednia: 0.00192267474415
+Wariancja: 0.00204041015508
+Unikalne wartosci: 3
+Cecha nr 210
+Srednia: 0.000404773630347
+Wariancja: 0.000418102242999
+Unikalne wartosci: 3
+Cecha nr 211
+Srednia: 0.0370907569942
+Wariancja: 0.0420429938275
+Unikalne wartosci: 3
+Cecha nr 212
+Srednia: 0.00143020016056
+Wariancja: 0.00148212450544
+Unikalne wartosci: 3
+Cecha nr 213
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 214
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 215
+Srednia: 4.72235902072e-05
+Wariancja: 4.72213601398e-05
+Unikalne wartosci: 2
+Cecha nr 216
+Srednia: 0.156674379853
+Wariancja: 0.214701339142
+Unikalne wartosci: 3
+Cecha nr 217
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 218
+Srednia: 0.0277809634962
+Wariancja: 0.0362650052439
+Unikalne wartosci: 3
+Cecha nr 219
+Srednia: 0.425194459998
+Wariancja: 0.405504036063
+Unikalne wartosci: 3
+Cecha nr 220
+Srednia: 0.00105915766608
+Wariancja: 0.00112549812284
+Unikalne wartosci: 3
+Cecha nr 221
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 222
+Srednia: 1.34924543449e-05
+Wariancja: 1.34922722986e-05
+Unikalne wartosci: 2
+Cecha nr 223
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 224
+Srednia: 0.000823039715039
+Wariancja: 0.00102474913584
+Unikalne wartosci: 3
+Cecha nr 225
+Srednia: 0.000161909452139
+Wariancja: 0.000323792689608
+Unikalne wartosci: 2
+Cecha nr 226
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166087e-06
+Unikalne wartosci: 2
+Cecha nr 227
+Srednia: 3.37311358623e-05
+Wariancja: 3.37299980727e-05
+Unikalne wartosci: 2
+Cecha nr 228
+Srednia: 0.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Cecha nr 229
+Srednia: 0.00439179388927
+Wariancja: 0.00464235512259
+Unikalne wartosci: 3
+Cecha nr 230
+Srednia: 6.74622717245e-06
+Wariancja: 6.74618166088e-06
+Unikalne wartosci: 2
+Cecha nr 231
+Srednia: 3.37311358623e-05
+Wariancja: 4.72224524176e-05
+Unikalne wartosci: 3
+Cecha nr 232
+Srednia: 2.0
+Wariancja: 0.0
+Unikalne wartosci: 1
+Dominujaca klasa oraz jej prawdopodobienstwo: 0.0 0.756339766985
+Liczba cech: 233
+Liczba przykladow: 148231
+Liczba niezerowych wartosci cech: 6392961
